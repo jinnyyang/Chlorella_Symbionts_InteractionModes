@@ -8,6 +8,6 @@ This is the repository for Yang, Jinny Wu, and Vincent J. Denef. "Dissecting bac
 #### Information about this repository:
 
  - Original fastq files:
-    - The raw data can be obtained from the Sequence Read Archive at NCBI under BioProject:???.
+    - The raw data can be obtained from the Sequence Read Archive at NCBI under BioProject:PRJNA1266273.
  - R Script:
   - To be continue.... 
