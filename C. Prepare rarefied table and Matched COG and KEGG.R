@@ -28,7 +28,7 @@ colnames(count_rarefied)=c("C_1","C_2","C_3","R_1","R_2","R_3","A_1","A_2","A_3"
 write.csv(count_rarefied,"Chl_count_rarefied.csv")
 
 ################## Prepare matched DOC function ##############
-COG_DOC_list_raw=read_excel("Database/DOC_COG_list.xlsx",col_names = FALSE)
+COG_DOC_list_raw=read_excel("COG_DOMtransporters/DOC_COG_list.xlsx",col_names = FALSE)
 COG_DOC_list_raw=as.data.frame(COG_DOC_list_raw)
 
 Name=numeric()
