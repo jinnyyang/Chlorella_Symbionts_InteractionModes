@@ -10,7 +10,7 @@ This is the repository for Yang, Jinny Wu, and Vincent J. Denef. "Dissecting bac
     - The raw data can be obtained from the Sequence Read Archive at NCBI under BioProject: PRJNA1266273.
  - Data:
     - Contain gene count table, EggNog and KEGG annotation output.
- - Database:
+ - COG_DOMtransporters:
     - Contain files for matching COG annotation and DOM transporter.
       
  - R Script: Please notice the codebase is in the process of being organized and streamlined into the following 3 groups. Future updates will include a more concise and well-documented version...
